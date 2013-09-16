@@ -60,12 +60,6 @@
       <version>2.8.1</version>
       <scope>provided</scope>
     </dependency>
-    <dependency>
-      <groupId>com.twitter</groupId>
-      <artifactId>util-core</artifactId>
-      <version>4.0.0</version>
-      <scope>provided</scope>
-    </dependency>
 
     <!-- JRuby -->
     <dependency>
